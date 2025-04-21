@@ -1,0 +1,306 @@
+2025-04-21 10:58:04,299 - INFO - Starting AutoBusy application.
+2025-04-21 10:58:04,338 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 10:58:10,347 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 10:58:10,555 - INFO - Exiting program and restoring system sleep state.
+2025-04-21 10:58:10,555 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 10:58:10,571 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 10:59:49,018 - INFO - Starting AutoBusy application.
+2025-04-21 10:59:49,033 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 10:59:55,040 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 10:59:55,313 - INFO - Exiting program and restoring system sleep state.
+2025-04-21 10:59:55,313 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 10:59:55,337 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 11:01:56,007 - INFO - Starting AutoBusy application.
+2025-04-21 11:01:56,007 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:02:02,019 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:02:02,270 - INFO - Exiting program and restoring system sleep state.
+2025-04-21 11:02:02,270 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 11:02:02,291 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 11:02:48,408 - INFO - Starting AutoBusy application.
+2025-04-21 11:02:48,408 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:02:54,425 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:03:00,638 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:03:06,852 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:03:13,065 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:03:19,279 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:03:25,489 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:03:31,702 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:03:37,911 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:03:46,107 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:08:30,190 - INFO - Starting AutoBusy application.
+2025-04-21 11:08:30,206 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:08:36,215 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:08:42,432 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:08:48,642 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:08:59,964 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:16:36,442 - INFO - Starting AutoBusy application.
+2025-04-21 11:16:36,458 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:16:41,464 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:16:46,677 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:16:56,433 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:20:10,368 - INFO - Starting AutoBusy application.
+2025-04-21 11:20:10,373 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:20:10,373 - INFO - Entering the main loop. Waiting for scheduled tasks or interruptions.
+2025-04-21 11:20:15,382 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:20:20,594 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:20:26,389 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:23:10,374 - INFO - Starting AutoBusy application.
+2025-04-21 11:23:10,390 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:23:10,390 - INFO - Entering the main loop. Waiting for scheduled tasks or interruptions.
+2025-04-21 11:23:15,397 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:23:20,608 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:23:25,839 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:23:33,513 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:25:12,329 - INFO - Starting AutoBusy application.
+2025-04-21 11:25:12,329 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:25:12,329 - INFO - Entering the main loop. Waiting for scheduled tasks or interruptions.
+2025-04-21 11:25:17,360 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:25:22,576 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:25:27,789 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:25:33,015 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:25:40,405 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:27:57,563 - INFO - Starting AutoBusy application.
+2025-04-21 11:27:57,563 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:27:57,563 - INFO - Registering SIGINT handler.
+2025-04-21 11:27:57,563 - INFO - Entering the main loop. Waiting for scheduled tasks or interruptions.
+2025-04-21 11:28:02,580 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:28:07,798 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:28:16,405 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:36:14,774 - INFO - Starting AutoBusy application.
+2025-04-21 11:36:14,774 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 11:36:14,790 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:36:14,790 - INFO - Registering SIGINT handler.
+2025-04-21 11:36:14,790 - INFO - Entering the main loop. Waiting for scheduled tasks or interruptions.
+2025-04-21 11:36:19,805 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:36:25,022 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:36:30,237 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:36:35,450 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:36:42,112 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:37:21,785 - INFO - Starting AutoBusy application.
+2025-04-21 11:37:21,800 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:37:21,800 - INFO - Registering SIGINT handler.
+2025-04-21 11:37:21,800 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 11:37:21,800 - INFO - Entering the main loop. Waiting for scheduled tasks or interruptions.
+2025-04-21 11:37:26,813 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:37:32,034 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:37:37,252 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:37:42,482 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:37:47,698 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:37:52,912 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:37:58,131 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:38:03,344 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:38:08,557 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:38:13,776 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:38:18,999 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:38:24,220 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:38:29,432 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:38:34,645 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:38:39,862 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:38:45,077 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:38:50,291 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:38:55,511 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:39:00,769 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:39:06,016 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:39:11,235 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:39:16,450 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:39:21,663 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:39:26,875 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:39:32,089 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:39:37,311 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:39:44,174 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:39:46,478 - INFO - Starting AutoBusy application.
+2025-04-21 11:39:46,478 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:39:46,478 - INFO - Registering SIGINT handler.
+2025-04-21 11:39:46,478 - INFO - Entering the main loop. Waiting for scheduled tasks or interruptions.
+2025-04-21 11:39:51,501 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:39:51,708 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 11:39:56,729 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:39:56,942 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 11:40:01,954 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:40:02,161 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 11:40:07,169 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:40:07,376 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 11:40:12,395 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:40:12,602 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 11:40:17,615 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:40:17,826 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 11:40:22,834 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:40:23,042 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 11:40:31,005 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:43:55,303 - INFO - Starting AutoBusy application.
+2025-04-21 11:43:55,318 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:43:55,318 - INFO - Entering the main loop. Waiting for scheduled tasks or interruptions.
+2025-04-21 11:44:00,329 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:44:00,539 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 11:44:05,548 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:44:05,755 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 11:44:10,769 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:44:10,974 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 11:44:15,991 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:44:16,199 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 11:44:19,118 - INFO - KeyboardInterrupt caught. Exiting the program.
+2025-04-21 11:44:19,118 - INFO - Exiting program and restoring system sleep state.
+2025-04-21 11:44:19,118 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 11:48:38,487 - INFO - Starting AutoBusy application.
+2025-04-21 11:48:38,503 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:48:38,503 - INFO - Registering SIGINT handler.
+2025-04-21 11:48:38,503 - INFO - Entering the main loop. Waiting for scheduled tasks or interruptions.
+2025-04-21 11:48:43,512 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:48:53,270 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:50:09,392 - INFO - Starting AutoBusy application.
+2025-04-21 11:50:09,407 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:50:09,407 - INFO - Registering SIGINT handler.
+2025-04-21 11:50:09,407 - INFO - Entering the main loop. Waiting for scheduled tasks or interruptions.
+2025-04-21 11:50:14,415 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:50:19,634 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:50:24,666 - INFO - SIGINT received. Exiting the program immediately.
+2025-04-21 11:50:24,668 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 11:50:38,164 - INFO - Starting AutoBusy application.
+2025-04-21 11:50:38,179 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:50:38,179 - INFO - Registering SIGINT handler.
+2025-04-21 11:50:38,179 - INFO - Entering the main loop. Waiting for scheduled tasks or interruptions.
+2025-04-21 11:50:43,192 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:50:48,408 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:57:19,972 - INFO - Starting AutoBusy application.
+2025-04-21 11:57:19,972 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:57:19,972 - INFO - Registering SIGINT handler.
+2025-04-21 11:57:19,988 - INFO - Entering the main loop. Waiting for scheduled tasks or interruptions.
+2025-04-21 11:57:24,993 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:57:30,222 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:57:35,436 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:57:40,648 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:57:45,861 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:57:51,083 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:57:56,299 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:58:01,517 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:58:06,734 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:58:11,953 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:58:17,275 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:58:22,489 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:58:27,712 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:58:32,929 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:58:38,146 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:58:43,361 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:58:48,574 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:58:53,792 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:58:59,004 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:59:04,219 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:59:09,434 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:59:14,647 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:59:19,864 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:59:25,085 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:59:30,304 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:59:35,521 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:59:40,737 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:59:45,954 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:59:51,178 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 11:59:56,396 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:00:01,617 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:00:06,829 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:00:12,042 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:00:17,255 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:00:22,468 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:00:27,682 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:00:32,894 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:00:38,114 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:00:43,332 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:00:48,548 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:00:53,758 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:00:58,980 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:01:04,191 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:01:09,405 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:01:14,619 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:01:19,831 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:01:25,043 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:01:30,253 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:01:35,467 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:01:40,680 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:01:45,892 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:01:51,106 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:01:56,317 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:02:01,536 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:02:06,753 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:02:11,965 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:02:17,179 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:02:22,396 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:02:27,611 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:02:32,824 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:02:38,040 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:02:43,253 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:02:48,469 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:02:53,683 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:02:58,894 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:03:04,114 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:03:09,325 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:03:14,537 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:03:19,751 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:03:24,969 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:03:30,183 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:03:35,397 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:03:40,614 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:03:45,829 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:03:51,044 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:03:56,260 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:04:01,481 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:04:06,692 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:04:11,908 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:04:17,124 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:04:22,335 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:04:27,555 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:04:32,772 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:04:37,988 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:04:43,204 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:04:48,419 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:04:53,631 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:04:58,845 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:05:04,071 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:05:09,306 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:05:14,520 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:05:19,735 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:05:24,955 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:05:30,170 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:05:35,388 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:05:40,605 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:05:45,834 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:05:51,054 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:05:56,272 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:06:01,486 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:06:06,699 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:06:11,917 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:06:17,138 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:06:22,352 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:06:27,573 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:06:32,785 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:06:38,001 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:06:43,222 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:06:48,433 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:06:53,652 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:06:58,863 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:07:04,075 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:07:09,287 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:07:14,509 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:07:19,729 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:07:24,942 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:07:30,154 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:07:35,371 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:07:40,582 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:07:45,793 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:07:51,008 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:07:56,221 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:08:01,436 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:08:06,649 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:08:11,867 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:08:17,081 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:08:22,297 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:08:27,513 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:08:32,731 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:08:37,945 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:08:43,157 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:08:48,372 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:08:53,588 - INFO - Calling prevent_sleep(): Preventing system sleep.
+2025-04-21 12:08:54,345 - INFO - SIGINT received. Exiting the program immediately.
+2025-04-21 12:08:54,345 - INFO - Calling allow_sleep(): Restoring system sleep state.
+2025-04-21 12:14:25,010 - INFO - Starting AutoBusy application.
+2025-04-21 12:14:25,026 - INFO - Entering the main loop. Waiting for scheduled tasks or interruptions.
+2025-04-21 12:19:30,223 - INFO - KeyboardInterrupt caught. Exiting the program.
+2025-04-21 12:19:30,223 - INFO - Exiting program and restoring system sleep state.
