@@ -304,3 +304,7 @@
 2025-04-21 12:14:25,026 - INFO - Entering the main loop. Waiting for scheduled tasks or interruptions.
 2025-04-21 12:19:30,223 - INFO - KeyboardInterrupt caught. Exiting the program.
 2025-04-21 12:19:30,223 - INFO - Exiting program and restoring system sleep state.
+2025-04-24 14:24:55,340 - INFO - Starting AutoBusy application.
+2025-04-24 14:24:55,386 - INFO - Entering the main loop. Waiting for scheduled tasks or interruptions.
+2025-04-24 14:25:07,690 - INFO - KeyboardInterrupt caught. Exiting the program.
+2025-04-24 14:25:07,690 - INFO - Exiting program and restoring system sleep state.

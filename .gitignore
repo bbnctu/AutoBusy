@@ -1,0 +1,40 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 虛擬環境
+env/
+venv/
+ENV/
+.venv/
+pip-log.txt
+
+# PyInstaller build
+build/
+dist/
+*.spec
+
+# VSCode/IDEA等IDE設定
+.vscode/
+.idea/
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+
+# 測試資料、暫存
+*.log
+*.tmp
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Windows特有
+*.bak
+*.swp
+~$*
+
+# 忽略暫存的資源目錄（視你專案結構可調整）
+# /assets/
