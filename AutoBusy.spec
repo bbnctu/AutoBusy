@@ -5,7 +5,7 @@ a = Analysis(
     ['AutoBusy.py'],
     pathex=[],
     binaries=[],
-    datas=[('WealthyWide2.png', '.'), ('close.png', '.'), ('Wealthy.ico', '.')],
+    datas=[('WealthyWide2.png', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
@@ -35,5 +35,4 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['Wealthy.ico'],
 )

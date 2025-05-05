@@ -113,7 +113,7 @@ def run_gui_with_autobusy():
     # === 參數區 ===
     img_path = resource_path("WealthyWide2.png")
     font_path = resource_path("arialbd.ttf")
-    ico_path = resource_path("Wealthy.ico")
+    #ico_path = resource_path("Wealthy.ico")
     lines = ["Wealthy is watching YOU!!!"]
     img_area_ratio = 0.9           # 圖片在合成圖的高度比例，0.7~0.85，調大耳朵空間會多
     text_vertical_shift = 180       # 字體區域手動往上(+)下(-)移動 px
@@ -124,7 +124,7 @@ def run_gui_with_autobusy():
     root = tk.Tk()
     root.state('zoomed')
     root.title("Wealthy with you")
-    root.iconbitmap(ico_path)
+    #root.iconbitmap(ico_path)
     root.attributes('-alpha', 1.0)
     root.geometry(f"{root.winfo_screenwidth()}x{root.winfo_screenheight()}+0+0")
     root.update_idletasks()
